@@ -1,3 +1,3 @@
 const CONFIG = {
-  TELEGRAM_LINK: "https://t.me/+XaHhhuoLVEP1jYWE5"
+  TELEGRAM_LINK: "https://t.me/forexparatodos1"
 };
